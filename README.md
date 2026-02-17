@@ -2,7 +2,9 @@
 
 <h2>A sample dataset of 1001 Pinterest profiles and posts</h2>
 
-![Pinterest dataset header](https://github.com/luminati-io/Pinterest-dataset-samples/blob/main/pinterest-datasets.PNG)
+<a href="https://brightdata.com/products/datasets/pinterest">
+   <img src="https://github.com/luminati-io/pinterest-dataset-samples/blob/main/pinterest-datasets.png" alt="pinterest datasets" />
+</a>
 
 A Pinterest dataset sample of over 1000 profiles and posts. Dataset was extracted using the <b>Bright Data API</b>.
 
@@ -43,6 +45,10 @@ Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b
 Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
 
 <b>[Get the full Pinterest dataset](https://brightdata.com/products/datasets/pinterest)</b>.
+
+<a href="https://brightdata.com/products/datasets/pinterest">
+   <img src="https://github.com/luminati-io/pinterest-dataset-samples/blob/main/dataset-promotions.png" alt="pinterest datasets" />
+</a>
 
 <h2>What are the Pinterest datasets use cases?</h2>
 
